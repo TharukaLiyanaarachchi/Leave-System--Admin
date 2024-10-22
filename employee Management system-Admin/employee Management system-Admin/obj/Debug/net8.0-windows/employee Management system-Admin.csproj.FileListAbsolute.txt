@@ -1,0 +1,98 @@
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\obj\Debug\net8.0-windows\employee_management_admin_.Form1.resources
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\obj\Debug\net8.0-windows\employee Management system-Admin.csproj.GenerateResource.cache
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\obj\Debug\net8.0-windows\employee Management system-Admin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\obj\Debug\net8.0-windows\employee Management system-Admin.AssemblyInfoInputs.cache
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\obj\Debug\net8.0-windows\employee Management system-Admin.AssemblyInfo.cs
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\obj\Debug\net8.0-windows\employee Management system-Admin.csproj.CoreCompileInputs.cache
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\employee Management system-Admin.exe
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\employee Management system-Admin.deps.json
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\employee Management system-Admin.runtimeconfig.json
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\employee Management system-Admin.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\employee Management system-Admin.pdb
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\obj\Debug\net8.0-windows\employee Management system-Admin.csproj.AssemblyReference.cache
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\obj\Debug\net8.0-windows\employee.79E6C179.Up2Date
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\obj\Debug\net8.0-windows\employee Management system-Admin.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\obj\Debug\net8.0-windows\refint\employee Management system-Admin.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\obj\Debug\net8.0-windows\employee Management system-Admin.pdb
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\obj\Debug\net8.0-windows\employee Management system-Admin.genruntimeconfig.cache
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\obj\Debug\net8.0-windows\ref\employee Management system-Admin.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\obj\Debug\net8.0-windows\employee_Management_system_Admin.Form.resources
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\obj\Debug\net8.0-windows\employee_management_admin_.Dashboard.resources
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\obj\Debug\net8.0-windows\employee_management_admin_.Employee_Registration.resources
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\obj\Debug\net8.0-windows\employee_management_admin_.Leave_Request.resources
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\obj\Debug\net8.0-windows\employee_management_admin_.Leave_Allocation.resources
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\obj\Debug\net8.0-windows\employee_management_admin_.Roaster_Allocation.resources
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\obj\Debug\net8.0-windows\employee_management_admin_.Individual_Employee_Leave_History.resources
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\Microsoft.ReportViewer.Common.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\Microsoft.ReportViewer.Design.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\Microsoft.ReportViewer.WebForms.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\Microsoft.SqlServer.Types.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\tharuka_l\source\repos\employee Management system-Admin\employee Management system-Admin\bin\Debug\net8.0-windows\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
